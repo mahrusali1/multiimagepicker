@@ -1,0 +1,9 @@
+name: multiimagepicker
+description: Extension untuk memilih banyak gambar sekaligus.
+authors:
+  - BetaMedia
+version:
+  number: 1
+  name: '1.0'
+assets:
+  icon: icon-rush.png
